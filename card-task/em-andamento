@@ -1,6 +1,0 @@
-! Em Andamento =
-IF (
-    CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Em Andamento" ) < 1,
-    0,
-    CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Em Andamento" )
-)
