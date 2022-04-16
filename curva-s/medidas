@@ -1,0 +1,62 @@
+Total Acumulado de Média de % YTD em Mês =
+CALCULATE (
+    AVERAGE ( Consulta1[% YTD] ),
+    FILTER (
+        CALCULATETABLE (
+            SUMMARIZE ( 'dCalendário', 'dCalendário'[Mês 2], 'dCalendário'[Mês] ),
+            ALLSELECTED ( 'dCalendário' )
+        ),
+        ISONORAFTER (
+                'dCalendário'[Mês 2], MAX ( 'dCalendário'[Mês 2] ), DESC,
+                'dCalendário'[Mês], MAX ( 'dCalendário'[Mês] ), DESC
+        )
+    )
+)
+
+
+
+Total Concluído =
+CALCULATE (
+    COUNTA ( Consulta1[Fim Realizado] ),
+    FILTER (
+        ALLSELECTED ( 'dCalendário'[Data] ),
+        ISONORAFTER ( 'dCalendário'[Data], MAX ( 'dCalendário'[Data] ), DESC )
+    )
+)
+
+
+
+
+Total Plano de Ação =
+CALCULATE (
+    COUNTA ( Consulta1[Fim Realizado] ),
+    FILTER (
+        ALLSELECTED ( 'dCalendário'[Data] ),
+        ISONORAFTER ( 'dCalendário'[Data], MAX ( 'dCalendário'[Data] ), DESC )
+    )
+)
+
+
+
+
+Total Previsto =
+CALCULATE (
+    COUNTA ( Consulta1[Fim Previsto] ),
+    FILTER (
+        ALLSELECTED ( 'dCalendário'[Data] ),
+        ISONORAFTER ( 'dCalendário'[Data], MAX ( 'dCalendário'[Data] ), DESC )
+    )
+)
+
+
+
+Total YTD = 
+CALCULATE(
+	COUNTA(Consulta1[Fim Previsto YTD]),
+	FILTER(
+		ALLSELECTED('dCalendário'[Data]),
+		ISONORAFTER('dCalendário'[Data], MAX('dCalendário'[Data]), DESC)
+	)
+)
+
+
