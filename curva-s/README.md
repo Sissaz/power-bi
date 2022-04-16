@@ -11,6 +11,11 @@
 </div>
 <br>
 <br />
+<div align="center">
+ 
+<a href="https://github.com/Sissaz" > <img width="18%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964928666981249085/how-to.png" /></a>
+ 
+</div>
 
 <div align="center">
  
