@@ -12,6 +12,15 @@
 <br>
 <br />
 
+<div align="center">
+ 
+<a href="https://github.com/Sissaz" > <img width="15%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964927599191154738/s-curve.png" /></a>
+ 
+</div>
+<br>
+<br />
+
+
 📃 | For it to work properly, create a dCalendar:
 <br>
 <br />
