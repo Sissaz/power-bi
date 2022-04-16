@@ -10,7 +10,4 @@
  
  </div>
 
-<br>
-<br />
-
 📊 | The Data Source for this Dashboard is a .csv file downloaded from STRATWs One and stored in a SharePoint folder
