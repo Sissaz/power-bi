@@ -1,0 +1,2 @@
+! Previsto =
+CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Fim Previsto YTD] = 1 )
