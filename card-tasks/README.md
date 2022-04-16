@@ -13,9 +13,9 @@
 </div>
 
 
-* Done with Filters:
-
-
+📃 | Done with Filters:
+<br>
+<br />
 <div align="center">
  
 <a href="https://github.com/Sissaz" > <img width="15%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964726238121967626/planejadas.png" /></a>
