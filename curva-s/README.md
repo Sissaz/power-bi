@@ -12,9 +12,9 @@
 <br>
 <br />
 
-* ✏️ | For it to work properly:
+📃 | For it to work properly, create a dCalendar:
 <br>
-📃 | Create a dCalendar:
+<br />
 <div align="center">
  
 <a href="https://github.com/Sissaz" > <img width="60%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964729841939251210/dCalendario.png" /></a>
@@ -22,6 +22,8 @@
 </div>
 <br>
 📃 | Sort by Column:
+<br>
+<br />
 <div align="center">
  
 <a href="https://github.com/Sissaz" > <img width="60%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964729842157371472/sort-by-column.png" /></a>
@@ -29,6 +31,8 @@
 </div>
 <br>
 📃 | Relationship:
+<br>
+<br />
 <div align="center">
  
 <a href="https://github.com/Sissaz" > <img width="60%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964729841691811850/relationship.png" /></a>
