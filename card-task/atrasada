@@ -6,3 +6,27 @@ IF (
     0,
     CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Atrasada" )
 )
+
+
+! Concluída =
+IF (
+    CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Concluída" ) < 1,
+    0,
+    CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Concluída" )
+)
+
+
+! Em Andamento =
+IF (
+    CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Em Andamento" ) < 1,
+    0,
+    CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Andamento] = "Em Andamento" )
+)
+
+
+! Previsto =
+CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Fim Previsto YTD] = 1 )
+
+
+! Total =
+[! Atrasada] + [! Concluída] + [! Em Andamento]
