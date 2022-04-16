@@ -30,3 +30,12 @@ CALCULATE ( COUNT ( Consulta1[Índice] ), Consulta1[Fim Previsto YTD] = 1 )
 
 ! Total =
 [! Atrasada] + [! Concluída] + [! Em Andamento]
+
+
+<div align="center">
+ 
+<a href="https://github.com/Sissaz" > <img width="35%"  src="https://github.com/Sissaz/power-bi/blob/main/card-tasks/cards-tasks.png?raw=true" /></a>
+ 
+</div>
+<br>
+<br />
