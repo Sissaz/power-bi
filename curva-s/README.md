@@ -1,6 +1,6 @@
 <div align="center">
  
-<a href="https://github.com/Sissaz" > <img width="25%"  src="https://github.com/Sissaz/power-bi/blob/main/medidor-radial/medidor-radial.png?raw=true" /></a>
+<a href="https://github.com/Sissaz" > <img width="100%"  src="https://github.com/Sissaz/power-bi/blob/main/curva-s/curva-s.png?raw=true" /></a>
  
 </div>
 <br>
