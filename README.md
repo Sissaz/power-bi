@@ -17,5 +17,5 @@
 <br/>
 
 - [Card Tasks](https://github.com/Sissaz/power-bi/tree/main/card-tasks) | 🗂️ 
-- [S-Curve](https://github.com/Sissaz/power-bi/tree/main/curva-s) | 📊
+- [S-Curve](https://github.com/Sissaz/power-bi/tree/main/curva-s) | 📈
 - [Radial Gauge](https://github.com/Sissaz/power-bi/tree/main/medidor-radial) | 📐
