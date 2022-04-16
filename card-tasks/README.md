@@ -25,9 +25,14 @@
 <br />
 <div align="center">
  
-<a href="https://github.com/Sissaz" > <img width="170%" src="https://cdn.discordapp.com/attachments/589442956021465142/964944264981262376/tasks-cards.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="80%" src="https://cdn.discordapp.com/attachments/589442956021465142/964945508722417684/tasks-cards-1.png" /></a>
  
 </div>
 
-
+<br />
+<div align="center">
+ 
+<a href="https://github.com/Sissaz" > <img width="80%" src="https://cdn.discordapp.com/attachments/589442956021465142/964945509120892988/tasks-cards-2.png" /></a>
+ 
+</div>
 
