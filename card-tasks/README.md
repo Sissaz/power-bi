@@ -20,8 +20,9 @@
  
 </div>
 
-📃 | Done with Filters:
+✏️ | [Measures](https://github.com/Sissaz/power-bi/blob/main/card-tasks/medidas) 
 
+📃 | Done with Filters:
 <br />
 <div align="center">
  
