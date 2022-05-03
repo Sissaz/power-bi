@@ -17,6 +17,8 @@
  
 </div>
 
+✏️ | [Measures](https://github.com/Sissaz/power-bi/blob/main/medidor-radial/medidas) 
+
 <div align="center">
  
 <a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964732081324294225/radial-gauge.png" /></a>
