@@ -1,6 +1,6 @@
 <div align="center">
  
-<a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964720859455586384/radial-gauge.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="20%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964720859455586384/radial-gauge.png" /></a>
  
 </div>
 
