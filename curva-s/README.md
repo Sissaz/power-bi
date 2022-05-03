@@ -17,6 +17,8 @@
  
 </div>
 
+✏️ | [Measures](https://github.com/Sissaz/power-bi/blob/main/curva-s/medidas) 
+
 <div align="center">
  
 <a href="https://github.com/Sissaz" > <img width="15%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964927599191154738/s-curve.png" /></a>
