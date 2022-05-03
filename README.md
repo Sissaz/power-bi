@@ -19,3 +19,7 @@
 - [Card Tasks](https://github.com/Sissaz/power-bi/tree/main/card-tasks) | 🗂️ 
 - [S-Curve](https://github.com/Sissaz/power-bi/tree/main/curva-s) | 📈
 - [Radial Gauge](https://github.com/Sissaz/power-bi/tree/main/medidor-radial) | 📐
+
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
+</div>
